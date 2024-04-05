@@ -12,6 +12,13 @@ This is a game made by using the pygames library in Python. It was created by fo
 - An alive cell with less than 2 alive neighbours will die in next iteration
 - An alive cell with either 2 or 3 alive neighbours will stay alive in next iteration
 
+## Controls:
+
+- Click any mouse button to select or deselect cells in the grid
+- Press Spacebar to play or pause the game
+- Press 'g' to randomly populate cells in the grid
+- Press 'c' to clear the grid
+
 ## Execution:
 
 - Run the program file 'main.py' from command line or terminal
