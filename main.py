@@ -1,3 +1,6 @@
+# I use the terms Tile and Cells interchangeably in the comments. Both mean the same thing
+# A tile or cell refers to the square or rectangle shape which can be clicked by the user
+
 import pygame
 import random
 
